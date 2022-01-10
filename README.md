@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Yaseen and I am a 3rd year Computer Science at UC Irvine. I recently transferred from Saddleback/Irvine Valley College.
+**Pronouns:** he/him/his 
+Feel free to reach out on [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or by my [email](kyaseen49@yahoo.com)
 
 <!--
 **Ykhan799/Ykhan799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
