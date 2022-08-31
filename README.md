@@ -7,9 +7,9 @@
 **Pronouns:** he/him/his  
 
 
-Computer Science, Mathematics, Economics, History, and more. I love learning many subjects. In Computer Science, I am interested in Software Engineering and Data Science but I am exploring other fields like App Development. I enjoy creating and making each of my ideas functional. In the meantime, explore my repository to view my projects. I am currently looking for full-time Software Engineer or Data Science positions
+Computer Science, Mathematics, Economics, History, and more. I love learning many subjects. In Computer Science, I am interested in Software Engineering and Data Science but I am exploring other fields like App Development. I enjoy creating and making each of my ideas functional. In the meantime, explore my repository to view my projects. I am currently looking for full-time Software Engineer or Data Science positions.
 
-Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/7836817/Resume_-_YK.pdf)
+Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/9465416/Khan_Yaseen_Resume.pdf)
 
 
 
