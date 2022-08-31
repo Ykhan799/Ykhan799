@@ -11,5 +11,4 @@ Computer Science, Mathematics, Economics, History, and more. I love learning man
 
 Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/9465416/Khan_Yaseen_Resume.pdf)
 
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ykhan799&theme=highcontrast&show_icons=true&count_private=true)
