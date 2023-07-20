@@ -3,7 +3,7 @@
 ![download-2](https://user-images.githubusercontent.com/78000116/148719460-4cb94337-4e80-4f95-a27f-5573eb6d7c3c.jpg)
 ![download-3](https://user-images.githubusercontent.com/78000116/148719525-6b3af876-a49d-4bc5-a803-ea828ef73921.jpg)
 
-### Hi there 👋 My name is Yaseen and I am a 4th year Computer Science major at UC Irvine. I transferred from Saddleback/Irvine Valley College.
+### Hi there 👋 My name is Yaseen. I recently graduated from UC Irvine with a Bachelor's in Computer Science.
 **Pronouns:** he/him/his  
 
 
