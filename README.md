@@ -9,7 +9,8 @@
 
 Computer Science, Mathematics, Economics, History, and more. I love learning many subjects. In Computer Science, I am interested in Software Engineering and Data Science but I am exploring other fields like App Development. I enjoy creating and making each of my ideas functional. In the meantime, explore my repository to view my projects. I am currently looking for full-time Software Engineer or Data Science positions.
 
-Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/10250424/YK.-.FT.-.Updated.pdf)
+Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/12166518/YK.-.Full-Time.pdf)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ykhan799&theme=highcontrast&show_icons=true&count_private=true)
+
