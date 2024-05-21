@@ -3,11 +3,11 @@
 ![download-2](https://user-images.githubusercontent.com/78000116/148719460-4cb94337-4e80-4f95-a27f-5573eb6d7c3c.jpg)
 ![download-3](https://user-images.githubusercontent.com/78000116/148719525-6b3af876-a49d-4bc5-a803-ea828ef73921.jpg)
 
-### Hi there 👋 My name is Yaseen. I recently graduated from UC Irvine with a Bachelor's in Computer Science. 
+### Hi there 👋 My name is Yaseen. I am currently a Software Engineer at Raytheon. 
 
-Computer Science, Mathematics, Economics, History, and more. I love learning many subjects. In Computer Science, I am interested in Software Engineering and Data Science but I am exploring other fields like App Development. I enjoy creating and making each of my ideas functional. In the meantime, explore my repository to view my projects. I am currently looking for full-time Software Engineer or Data Science positions.
+Computer Science, Mathematics, Economics, History, and more. I love learning many subjects. In Computer Science, I am interested in Software Engineering and Data Science but I am exploring other fields like App Development. I enjoy creating and making each of my ideas functional. In the meantime, explore my repository to view my projects.
 
-Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/12528154/resume.pdf)
+Additionally, feel free to reach out via [Linkedln](https://www.linkedin.com/in/yaseenkkhan/) or [email](yaseenkkhan@yahoo.com) or view my [resume](https://github.com/Ykhan799/Ykhan799/files/15390953/resume.pdf) or view my [portfolio](https://ykhan799.github.io/)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ykhan799&theme=highcontrast&show_icons=true&count_private=true)
